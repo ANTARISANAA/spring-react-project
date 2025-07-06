@@ -1,3 +1,9 @@
 [submodule "Backend/API-de-gestion-des-etudiants-notif2"]
 	path = Backend/API-de-gestion-des-etudiants-notif2
 	url = https://github.com/Mei9738/API-de-gestion-des-etudiants-notif
+[submodule "Backend/API-de-gestion-des-etudiants-2"]
+	path = Backend/API-de-gestion-des-etudiants-2
+	url = https://github.com/Mei9738/API-de-gestion-des-etudiants
+[submodule "FrontentProject-01"]
+	path = FrontentProject-01
+	url = https://github.com/ANTARISANAA/spring-react-EtuBroadcast-platform
